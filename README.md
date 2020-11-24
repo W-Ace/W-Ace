@@ -1,16 +1,32 @@
-### Hi there 👋
+![image](https://github.com/W-Lynn/W-Lynn/blob/main/arnold-francisca-f77Bh3inUpE-unsplash.jpg)
 
-<!--
-**W-Lynn/W-Lynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Profession
+Senior Frontend Developer && Frontend Lead
 
-Here are some ideas to get you started:
+## Skills
+#### ［Basic］
+* Html
+* Css
+* Javascript
+* Java
+* Jsp
+#### ［JS - Framework］
+* Vue
+* Vuex
+* Nuxt
+#### ［UI - Framework］
+* Bootstrap
+* Element UI
+* Ant Design Vue
+* Vant
+#### ［Bundle］
+* Webpack
+#### ［Design pattern］
+* OOP
+* FP
+#### ［Library］
+* Jquery
+* Layer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch
+blog: https://00-talk.medium.com/
