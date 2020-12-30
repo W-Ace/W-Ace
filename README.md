@@ -1,7 +1,7 @@
 ![image](https://github.com/W-Lynn/W-Lynn/blob/main/arnold-francisca-f77Bh3inUpE-unsplash.jpg)
 
 ## Profession
-Senior Frontend Developer && Frontend Lead
+Frontend Developer && Frontend Lead
 
 ## Skills
 #### ［Basic］
