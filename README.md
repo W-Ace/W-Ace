@@ -10,9 +10,6 @@ Frontend Developer && Frontend Lead
 * Javascript
 * Java
 * Jsp
-####  [Css - Preprocessor]
-* Scss
-* Less
 #### ［JS - Framework］
 * Vue
   * Vuex
