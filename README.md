@@ -31,5 +31,5 @@ Frontend Developer && Frontend Lead
 * Jquery
 * Layer
 
-## Get in touch
+## Blog
 blog: https://00-talk.medium.com/
