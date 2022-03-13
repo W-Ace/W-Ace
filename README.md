@@ -24,7 +24,7 @@ Frontend Developer && Frontend Lead
 * Vant
 #### ［Bundle］
 * Webpack
-#### ［Design pattern］
+#### ［Paradigm］
 * OOP
 * FP
 #### ［Library］
